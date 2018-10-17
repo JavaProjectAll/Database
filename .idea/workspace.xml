@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7fde1f1d-c5b0-42b9-a4a3-450dbac6bcd2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/a.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice2.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -29,18 +27,18 @@
     <expand>
       <path>
         <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="@baitap2" type="feb32156:DbDataSourceImpl" />
+        <item name="@Practice2" type="feb32156:DbDataSourceImpl" />
       </path>
       <path>
         <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="@baitap2" type="feb32156:DbDataSourceImpl" />
+        <item name="@Practice2" type="feb32156:DbDataSourceImpl" />
         <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
       </path>
       <path>
         <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="@baitap2" type="feb32156:DbDataSourceImpl" />
+        <item name="@Practice2" type="feb32156:DbDataSourceImpl" />
         <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
-        <item name="salemanager: schema" type="c314c289:MysqlImplModel$Schema" />
+        <item name="classicmodels: schema" type="c314c289:MysqlImplModel$Schema" />
       </path>
     </expand>
     <select />
@@ -65,15 +63,15 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="sql" value="3514" />
-          <entry key="txt" value="13" />
+          <entry key="sql" value="3801" />
+          <entry key="txt" value="29" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="13" />
+          <entry key="PLAIN_TEXT" value="29" />
           <entry key="SQL" value="74" />
-          <entry key="Scratch" value="3440" />
+          <entry key="Scratch" value="3727" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -88,14 +86,14 @@
           <entry key="offices" value="2" />
           <entry key="quiz" value="1" />
           <entry key="salesrepemployeenumber" value="1" />
-          <entry key="sql" value="44" />
+          <entry key="sql" value="48" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Database Element" value="18" />
-          <entry key="SQL" value="17" />
-          <entry key="Scratch" value="28" />
+          <entry key="SQL" value="20" />
+          <entry key="Scratch" value="29" />
           <entry key="UML" value="6" />
         </counts>
       </usages-collector>
@@ -104,28 +102,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/baitap1.sql">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/3be3fd8a-8af4-4fff-8989-ba15af4a9c57/console.sql">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-121">
-              <caret column="28" lean-forward="true" selection-start-column="28" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/a038f37f-66d8-4966-b448-948429f5181e/console.sql">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="104" lean-forward="true" selection-end-line="107" selection-end-column="63" />
+            <state relative-caret-position="88">
+              <caret line="4" column="22" selection-end-line="12" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/baitap2.sql">
+        <entry file="file://$PROJECT_DIR$/src/Practice2.sql">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="539">
-              <caret line="107" column="63" selection-start-line="107" selection-start-column="63" selection-end-line="107" selection-end-column="63" />
+            <state relative-caret-position="198">
+              <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -156,6 +145,8 @@
         <option value="$PROJECT_DIR$/src/baitap1.sql" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/a038f37f-66d8-4966-b448-948429f5181e/console.sql" />
         <option value="$PROJECT_DIR$/src/a.sql" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/3be3fd8a-8af4-4fff-8989-ba15af4a9c57/console.sql" />
+        <option value="$PROJECT_DIR$/src/Practice2.sql" />
       </list>
     </option>
   </component>
@@ -207,9 +198,9 @@
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539745584631" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539770701124" />
     <property name="database.console.LAST_STATE" value="false" />
-    <property name="last_opened_file_path" value="E:/mysqlsampledatabase/mysqlsampledatabase.sql" />
+    <property name="last_opened_file_path" value="C:/ProJectJavaScript/mysqlsampledatabase.sql" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="database.main" />
@@ -240,18 +231,26 @@
       <workItem from="1539654068697" duration="13335000" />
       <workItem from="1539700590244" duration="4423000" />
       <workItem from="1539738267528" duration="1241000" />
-      <workItem from="1539739689289" duration="5847000" />
+      <workItem from="1539739689289" duration="9091000" />
     </task>
+    <task id="LOCAL-00001" summary="update bai tap 2">
+      <created>1539745596265</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1539745596265</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38294000" />
+    <option name="totallyTimeSpent" value="41538000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14220877" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14220877" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -286,6 +285,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update bai tap 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="update bai tap 2" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -343,7 +346,6 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="das://f163d9c8-9315-4e60-ab69-b5a222cbc9d2/schema/classicmodels/table/offices" />
-    <entry file="file://C:/ProJectJavaScript/mysqlsampledatabase.sql" />
     <entry file="file://E:/mysqlsampledatabase/mysqlsampledatabase.sql" />
     <entry file="das://f163d9c8-9315-4e60-ab69-b5a222cbc9d2/schema/classicmodels/table/customers" />
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/f163d9c8-9315-4e60-ab69-b5a222cbc9d2/console.sql">
@@ -541,10 +543,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://C:/ProJectJavaScript/mysqlsampledatabase.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="53" lean-forward="true" selection-end-line="7930" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/baitap2.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="539">
-          <caret line="107" column="63" selection-start-line="107" selection-start-column="63" selection-end-line="107" selection-end-column="63" />
+        <state relative-caret-position="770">
+          <caret line="35" column="8" selection-start-line="35" selection-start-column="2" selection-end-line="35" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/3be3fd8a-8af4-4fff-8989-ba15af4a9c57/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="22" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Practice2.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
     </entry>
