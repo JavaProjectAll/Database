@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7fde1f1d-c5b0-42b9-a4a3-450dbac6bcd2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Practice4.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice5.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -76,15 +76,15 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="sql" value="4568" />
-          <entry key="txt" value="45" />
+          <entry key="sql" value="4703" />
+          <entry key="txt" value="46" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="45" />
+          <entry key="PLAIN_TEXT" value="46" />
           <entry key="SQL" value="74" />
-          <entry key="Scratch" value="4494" />
+          <entry key="Scratch" value="4629" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -100,13 +100,13 @@
           <entry key="orders" value="1" />
           <entry key="quiz" value="1" />
           <entry key="salesrepemployeenumber" value="1" />
-          <entry key="sql" value="52" />
+          <entry key="sql" value="53" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Database Element" value="19" />
-          <entry key="SQL" value="23" />
+          <entry key="SQL" value="24" />
           <entry key="Scratch" value="30" />
           <entry key="UML" value="6" />
         </counts>
@@ -118,17 +118,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/3be3fd8a-8af4-4fff-8989-ba15af4a9c57/console.sql">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="440">
-              <caret line="20" column="19" lean-forward="true" selection-end-line="20" selection-end-column="19" />
+            <state relative-caret-position="125">
+              <caret line="14" column="25" lean-forward="true" selection-end-line="14" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Practice4.sql">
+        <entry file="file://$PROJECT_DIR$/src/Practice5.sql">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="252">
-              <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+              <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -170,8 +170,9 @@
         <option value="$PROJECT_DIR$/src/a.sql" />
         <option value="$PROJECT_DIR$/src/Practice2.sql" />
         <option value="$PROJECT_DIR$/src/Peactice3.sql" />
-        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/3be3fd8a-8af4-4fff-8989-ba15af4a9c57/console.sql" />
         <option value="$PROJECT_DIR$/src/Practice4.sql" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/3be3fd8a-8af4-4fff-8989-ba15af4a9c57/console.sql" />
+        <option value="$PROJECT_DIR$/src/Practice5.sql" />
       </list>
     </option>
   </component>
@@ -223,7 +224,7 @@
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539793162076" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539793748136" />
     <property name="database.console.LAST_STATE" value="true" />
     <property name="last_opened_file_path" value="C:/ProJectJavaScript/mysqlsampledatabase.sql" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -256,7 +257,7 @@
       <workItem from="1539654068697" duration="13335000" />
       <workItem from="1539700590244" duration="4423000" />
       <workItem from="1539738267528" duration="1241000" />
-      <workItem from="1539739689289" duration="14484000" />
+      <workItem from="1539739689289" duration="15070000" />
     </task>
     <task id="LOCAL-00001" summary="update bai tap 2">
       <created>1539745596265</created>
@@ -279,11 +280,18 @@
       <option name="project" value="LOCAL" />
       <updated>1539790247111</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="update thuc hanh 4">
+      <created>1539793176403</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1539793176403</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46931000" />
+    <option name="totallyTimeSpent" value="47517000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -329,16 +337,14 @@
     <MESSAGE value="update bai tap 2" />
     <MESSAGE value="update thuc hanh 2" />
     <MESSAGE value="update thuc hanh 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="update thuc hanh 3" />
+    <MESSAGE value="update thuc hanh 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="update thuc hanh 4" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/f49f5c99-5cde-4d57-8494-f0e9171633ad/console_2.sql">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/7429d060-ec2a-40e6-abd3-0846d99e866b/console.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -613,17 +619,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/3be3fd8a-8af4-4fff-8989-ba15af4a9c57/console.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="20" column="19" lean-forward="true" selection-end-line="20" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Practice4.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/3be3fd8a-8af4-4fff-8989-ba15af4a9c57/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="14" column="25" lean-forward="true" selection-end-line="14" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Practice5.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
         </state>
       </provider>
     </entry>
